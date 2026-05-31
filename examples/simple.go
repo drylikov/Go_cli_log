@@ -18,4 +18,3 @@ func main() {
 	log.Error(errors.New("something exploded"))
 	fmt.Println()
 }
-
